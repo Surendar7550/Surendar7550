@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yuvaraj</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Surendar</h1>
+<h3 align="center">A passionate embedded engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yuvaoff27&label=Profile%20views&color=00ff00&style=plastic" alt="yuvaoff27" /> </p>
 
@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning React js
 
-- 👯 I’m looking to collaborate on [Chatting App](https://www.instagram.com/mr..unique.01.?igsh=mwczam0yahz3cdjtoq==)
+- 👯 I’m looking to collaborate on [Chatting App](https://www.instagram.com/mt_.paradise?igsh=MWlwcHZmanBodHEzOA==)
 
 - 👨‍💻 All of my projects are available at [www.domain.in](www.domain.in)
 
 - 💬 Ask me about *Dedication and commitment*
 
-- 📫 How to reach me *yuvaoff27@gmail.com*
+- 📫 How to reach me *surendarsurya7550@gmail.com*
 
 - 📄 Know about my experiences [www.resume.in](www.resume.in)
 
