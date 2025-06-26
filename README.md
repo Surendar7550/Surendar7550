@@ -6,7 +6,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available in my [Portfolio](https://your-portfolio-link.com)
-- 📄 Know about my experience in my [Resume]([https://your-resume-link.com](https://drive.google.com/file/d/11ht8rRCnK99aOpmZee1TgOsC04IzTQ1S/view?usp=drivesdk))
+- 📄 Know about my experience in my [Resume](https://your-resume-link.com](https://drive.google.com/file/d/11ht8rRCnK99aOpmZee1TgOsC04IzTQ1S/view?usp=drivesdk))
 - ⚡ Fun fact: **I think I'm funny 😄**
 
 ---
