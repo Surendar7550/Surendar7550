@@ -6,7 +6,7 @@
 </p>
 
 - 👨‍💻 All of my projects are available in my [Portfolio](https://your-portfolio-link.com)
-- 📄 Know about my experience in my [Resume](https://your-resume-link.com)
+- 📄 Know about my experience in my [Resume]([https://your-resume-link.com](https://drive.google.com/file/d/11ht8rRCnK99aOpmZee1TgOsC04IzTQ1S/view?usp=drivesdk))
 - ⚡ Fun fact: **I think I'm funny 😄**
 
 ---
@@ -46,16 +46,5 @@
   <a href="https://yoctoproject.org/" target="_blank" rel="noreferrer">
     <img src="https://www.yoctoproject.org/wp-content/uploads/2021/04/yocto_project_logo.png" alt="Yocto" width="40" height="40"/>
   </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/3064/3064197.png" alt="Linux Porting" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/236/236832.png" alt="Microcontroller" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/3665/3665923.png" alt="Microprocessor" width="40" height="40"/>
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://cdn-icons-png.flaticon.com/512/4832/4832463.png" alt="Protocol" width="40" height="40"/>
-  </a>
+  
 </p>
