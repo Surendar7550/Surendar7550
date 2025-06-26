@@ -11,7 +11,7 @@
 
 - 🎓 Embedded IoT Engineer with a strong background in **C programming**, **Microcontrollers**, and **Linux systems**
 - 🔬 I build real-time embedded systems, work on **Yocto-based Linux**, and enjoy **porting kernels** for ARM devices
-- 📂 Check out my recent work in the [Portfolio]([https://your-portfolio-link.com](http://127.0.0.1:5500/Index.html))
+- 📂 Check out my recent work in the [Portfolio](http://127.0.0.1:5500/Index.html)
 - 📄 View my resume here: [Resume PDF](https://drive.google.com/file/d/11ht8rRCnK99aOpmZee1TgOsC04IzTQ1S/view?usp=drivesdk)
 - 🌱 Currently learning **device driver development**, **protocol stack implementation**, and advanced **RTOS internals**
 - ⚡ Fun fact: **I debug better at midnight! 🌙**
